@@ -1,0 +1,7 @@
+{
+  "name": "开堰研学 (Kaiyan Study)",
+  "description": "一个集研学活动报名、场地资源预约、会员权益管理于一体的智慧文旅平台。采用清新自然的蓝绿设计风格，完美适配研学与创业场景。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
